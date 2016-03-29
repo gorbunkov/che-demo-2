@@ -11,6 +11,11 @@
 
     <artifactId>client</artifactId>
 
-
-
+    <dependencies>
+        <dependency>
+            <groupId>com.cuba.che</groupId>
+            <artifactId>server</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
